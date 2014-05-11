@@ -3,3 +3,5 @@
 .project
 Debug/src
 Release/src
+obj
+alole
